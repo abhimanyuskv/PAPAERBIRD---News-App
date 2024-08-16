@@ -1,0 +1,23 @@
+.container {
+    position: relative;
+    
+  }
+.position_box {position:absolute; bottom: 0; padding: 0px 20px 20px 20px;}
+.withi_color {color: #fff;}
+.position_box p {color: #fff;} 
+ul.withi_color li a {color: #fff;}
+ul.withi_color {float: left; padding-left: 40px;}
+
+#ourimg{
+  height: 450px;
+  width: 2000px;
+}
+
+#visionhead{
+  margin:57px 193px;
+  font-size: 23px;
+}
+
+#visionpara{
+  padding: 0px;
+}

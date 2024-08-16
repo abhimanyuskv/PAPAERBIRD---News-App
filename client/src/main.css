@@ -1,0 +1,29 @@
+#keys {
+  color: white;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: visible;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: larger;
+}
+
+#navbar {
+  position: sticky;
+  top: 0px;
+  z-index: 1000;
+  margin-bottom: 3px;
+}
